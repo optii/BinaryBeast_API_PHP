@@ -1,4 +1,7 @@
 {
     "name": "optii/binary-beast",
-    "description": ""
+    "description": "",
+    "autoload": {
+        "files": ["BinaryBeast.php", "lib/*"]
+    }
 }
