@@ -2,6 +2,6 @@
     "name": "optii/binary-beast",
     "description": "",
     "autoload": {
-        "files": ["BinaryBeast.php", "lib/BBCache.php", "lib/BBCallback.php", "lib/BBConfiguration.php", "lib/BBCountry.php", "lib/BBDev.php", "lib/BBGame.php", "lib/BBHelper.php", "lib/BBLegacy.php", "lib/BBMap.php", "lib/BBMatch.php", "lib/BBMatchGame.php", "lib/BBModel.php", "lib/BBRace.php", "lib/BBRound.php", "lib/BBSimpleModel.php", "lib/BBTeam.php", "lib/BBTournament.php"]
+        "files": ["BinaryBeast.php", "lib/BBCache.php", "lib/BBCallback.php", "lib/BBConfiguration.php"," lib/BBSimpleModel.php", "lib/BBCountry.php", "lib/BBDev.php", "lib/BBGame.php", "lib/BBHelper.php", "lib/BBLegacy.php", "lib/BBMap.php", "lib/BBMatch.php", "lib/BBMatchGame.php", "lib/BBModel.php", "lib/BBRace.php", "lib/BBRound.php",  "lib/BBTeam.php", "lib/BBTournament.php"]
     }
 }
